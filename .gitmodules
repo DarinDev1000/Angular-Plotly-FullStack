@@ -2,3 +2,7 @@
 	path = backend-angular-plotly-fullStack
 	url = git@github.com:DarinDev1000/backend-angular-plotly-fullStack.git
 	branch = master
+[submodule "frontend-angular-plotly-fullStack"]
+	path = frontend-angular-plotly-fullStack
+	url = git@github.com:DarinDev1000/frontend-angular-plotly-fullStack.git
+	branch = master
