@@ -1,0 +1,6 @@
+[submodule "frontend-angular-plotly-fullStack"]
+	path = frontend-angular-plotly-fullStack
+	url = git@github.com:DarinDev1000/frontend-angular-plotly-fullStack.git
+[submodule "backend-angular-plotly-fullStack"]
+	path = backend-angular-plotly-fullStack
+	url = git@github.com:DarinDev1000/backend-angular-plotly-fullStack.git
